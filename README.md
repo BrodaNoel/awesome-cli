@@ -54,6 +54,7 @@
 - [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 - [ansi-diff-stream](https://github.com/mafintosh/ansi-diff-stream) - A diff friendly cli input module.
 - [email-prompt](https://github.com/zeit/email-prompt) - CLI email prompt featuring autocompletion and validation.
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands (ei.: `ai Tell me the free space on disk`)
 
 ## Output
 
